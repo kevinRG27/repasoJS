@@ -1,0 +1,37 @@
+.ejercicios{
+    width: 200px;
+    height: 40px;
+    border-style: outset;
+    border-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.anchos{
+    width: 250px !important;
+}
+
+.anchos1{
+    width: 280px !important;
+}
+.contenedor{
+    display: flex;
+    justify-content: space-around;
+}
+
+.header{
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    font-size: x-large;
+    font-weight: bolder;
+    color: crimson;
+    
+}
+
+.ejercicios:hover{
+    background-color: cadetblue;
+}
